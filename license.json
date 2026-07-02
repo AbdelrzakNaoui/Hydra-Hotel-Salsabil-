@@ -1,7 +1,7 @@
 {
   "status": "active",
-  "expiration_date": "2027-01-01",
+  "expiration_date": "2026-01-01",
   "show_message": true,
-  "message": "نظام هيدرا أوتيل برو يعمل بنجاح. شكراً لثقتكم!",
+  "message": "ترخيص السحابي يشتغل !",
   "cloud_backup": true
 }
