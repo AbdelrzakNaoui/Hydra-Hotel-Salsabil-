@@ -1,9 +1,7 @@
 {
   "status": "active",
   "expiration_date": "2027-01-01",
-  "features": {
-    "restaurant_lan": true,
-    "invoice_pdf": true
-  },
-  "message": "نظام هيدرا أوتيل برو يعمل بنجاح. شكراً لثقتكم!"
+  "show_message": true,
+  "message": "نظام هيدرا أوتيل برو يعمل بنجاح. شكراً لثقتكم!",
+  "cloud_backup": true
 }
