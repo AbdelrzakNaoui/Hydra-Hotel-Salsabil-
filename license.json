@@ -3,11 +3,11 @@
     "status": "active",
     "expiration_date": "2027-01-01",
     "cloud_backup": true,
-    "current_version": "Salsabil v2.1"
+    "current_version": "Salsabil v2.4"
   },
   "developer_info": {
     "title_ar": "معلومات المطور",
-    "developer_name_ar": "عبد الرزاق نوي (Abdelrzak Naoui)",
+    "developer_name_ar": "عبد الرزاق نوي (Abdelrzak Naoui).",
     "phone": "0794924368",
     "telegram": "t.me/AbdelrzakNaouiDev",
     "footer_note_ar": "دعم مستمر لضمان استقرار وتطور تجارتكم، نحن هنا لخدمتكم."
