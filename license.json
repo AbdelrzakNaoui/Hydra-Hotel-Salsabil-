@@ -1,7 +1,46 @@
 {
-  "status": "active",
-  "expiration_date": "2027-01-01",
-  "show_message": true,
-  "message": "ترخيص السحابي يشتغل !",
-  "cloud_backup": true
+  "license": {
+    "status": "active",
+    "expiration_date": "2027-01-01",
+    "cloud_backup": true,
+    "current_version": "Salsabil v2.1"
+  },
+  "developer_info": {
+    "title_ar": "معلومات المطور",
+    "developer_name_ar": "عبد الرزاق نوي (Abdelrzak Naoui)",
+    "phone": "0794924368",
+    "telegram": "t.me/AbdelrzakNaouiDev",
+    "footer_note_ar": "دعم مستمر لضمان استقرار وتطور تجارتكم، نحن هنا لخدمتكم."
+  },
+  "connected_devices": {
+    "total_allowed_devices": 5,
+    "active_devices_count": 3,
+    "devices_list": [
+      {
+        "computer_name": "DESKTOP-RECEPTION",
+        "local_ip": "192.168.1.10",
+        "location_tag": "الاستقبال الرئيسي",
+        "is_locked": false
+      },
+      {
+        "computer_name": "DESKTOP-RESTAURANT",
+        "local_ip": "192.168.1.15",
+        "location_tag": "المطعم والمقهى",
+        "is_locked": false
+      },
+      {
+        "computer_name": "DESKTOP-ADMIN",
+        "local_ip": "192.168.1.5",
+        "location_tag": "مكتب الإدارة الرئيسي",
+        "is_locked": true
+      }
+    ]
+  },
+  "system_notifications": {
+    "broadcast_enabled": true,
+    "target": "all", 
+    "type": "warning", 
+    "title": "تنبيه من النظام",
+    "message": "يرجى مراجعة فواتير اليوم قبل نهاية الوردية."
+  }
 }
