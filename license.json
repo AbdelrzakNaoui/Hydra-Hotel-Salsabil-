@@ -13,26 +13,20 @@
     "footer_note_ar": "دعم مستمر لضمان استقرار وتطور تجارتكم، نحن هنا لخدمتكم."
   },
   "connected_devices": {
-    "total_allowed_devices": 5,
-    "active_devices_count": 3,
-    "devices_list": [
+    "total_allowed_devices": 3,
+    "enforce_whitelist": true,
+    "whitelist_computers": [
       {
         "computer_name": "DESKTOP-RECEPTION",
-        "local_ip": "192.168.1.10",
-        "location_tag": "الاستقبال الرئيسي",
-        "is_locked": false
+        "location_tag": "الاستقبال الرئيسي"
       },
       {
         "computer_name": "DESKTOP-RESTAURANT",
-        "local_ip": "192.168.1.15",
-        "location_tag": "المطعم والمقهى",
-        "is_locked": false
+        "location_tag": "المطعم والمقهى"
       },
       {
-        "computer_name": "DESKTOP-ADMIN",
-        "local_ip": "192.168.1.5",
-        "location_tag": "مكتب الإدارة الرئيسي",
-        "is_locked": true
+        "computer_name": "DESKTOP-CAFE",
+        "location_tag": "النقطة الخلفية - المقهى"
       }
     ]
   },
