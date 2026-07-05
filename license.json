@@ -17,7 +17,7 @@
     "enforce_whitelist": true,
     "whitelist_computers": [
       {
-        "computer_name": "DESKTOP-RECEPTION",
+        "computer_name": "DESKTOP-1J8BF91",
         "location_tag": "الاستقبال الرئيسي"
       },
       {
