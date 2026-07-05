@@ -13,24 +13,40 @@
     "footer_note_ar": "دعم مستمر لضمان استقرار وتطور تجارتكم، نحن هنا لخدمتكم."
   },
   "connected_devices": {
-    "total_allowed_devices": 3,
+    "total_allowed_devices": 8,
     "enforce_whitelist": true,
     "whitelist_computers": [
       {
         "computer_name": "DESKTOP-1J8BF91",
-        "location_tag": "الاستقبال الرئيسي"
+        "location_tag": "المطور نظام"
+      },
+      {
+        "computer_name": "DESKTOP-RECEPTION-1",
+        "location_tag": "الاستقبال الرئيسي - شاشة 1"
+      },
+      {
+        "computer_name": "DESKTOP-RECEPTION-2",
+        "location_tag": "الاستقبال - شاشة 2"
       },
       {
         "computer_name": "DESKTOP-RESTAURANT",
-        "location_tag": "المطعم والمقهى"
+        "location_tag": "المطعم والصالة"
       },
       {
         "computer_name": "DESKTOP-CAFE",
-        "location_tag": "النقطة الخلفية - المقهى"
+        "location_tag": "المقهى ونقطة البيع"
       },
       {
-        "computer_name": "DESKTOP-1J8BF91",
-        "location_tag": "االمطور نضام"
+        "computer_name": "DESKTOP-KITCHEN",
+        "location_tag": "المطبخ - طباعة الطلبات"
+      },
+      {
+        "computer_name": "DESKTOP-ADMIN",
+        "location_tag": "مكتب الإدارة"
+      },
+      {
+        "computer_name": "DESKTOP-STORE",
+        "location_tag": "المخزن والمشتريات"
       }
     ]
   },
