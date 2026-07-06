@@ -1,6 +1,6 @@
 {
   "license": {
-    "status": "active",
+    "status": "expired",
     "expiration_date": "2026-01-01",
     "cloud_backup": true,
     "current_version": "Salsabil v2.4"
@@ -50,6 +50,29 @@
       }
     ]
   },
+  "activation_keys": [
+    {
+      "key": "SLSB-5D-9X2A-7K4P",
+      "duration_days": 5,
+      "is_enabled": true,
+      "is_used": false,
+      "used_by_computer": ""
+    },
+    {
+      "key": "SLSB-10D-3M8V-6R1W",
+      "duration_days": 10,
+      "is_enabled": true,
+      "is_used": false,
+      "used_by_computer": ""
+    },
+    {
+      "key": "SLSB-20D-5F9Q-2Y7X",
+      "duration_days": 20,
+      "is_enabled": false,
+      "is_used": false,
+      "used_by_computer": ""
+    }
+  ],
   "system_notifications": {
     "broadcast_enabled": false,
     "target": "all", 
