@@ -14,7 +14,7 @@
   },
   "connected_devices": {
     "total_allowed_devices": 8,
-    "enforce_whitelist": true,
+    "enforce_whitelist": false,
     "whitelist_computers": [
       {
         "computer_name": "DESKTOP-1J8BF91",
